@@ -19,7 +19,7 @@ Make sure to install all the required libraries <br />
 * pip install face_recognition
 
 ## Installation ##
-* git clone https://github.com/ishitagupta2702/Talaash-FaceRecognition-Application/edit/main/README.md
+* git clone https://github.com/ishitagupta2702/Talaash-FaceRecognition-Application
 * cd ../path/to/the/file
 * python start.py
 
