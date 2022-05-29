@@ -19,6 +19,7 @@ Make sure to install all the required libraries <br />
 * pip install face_recognition
 
 ## Installation ##
+Run the following commands in the terminal to install and run the application <br />
 * git clone https://github.com/ishitagupta2702/Talaash-FaceRecognition-Application
 * cd ../path/to/the/file
 * python start.py
@@ -36,7 +37,7 @@ In case someone is missing, you can file a report by entering the details of the
 ![2](https://user-images.githubusercontent.com/79853573/170890247-7a3f3f7e-92e8-4dd8-b011-1802555216cc.png)
 
 ### Photo Match ###
-Users can select a picture which is then passed through the face recognition model and the matching miss people entries are displayed in the table. 
+Users can select a picture which is then passed through the face recognition model and the matching missing people entries are displayed in the table. 
 
 ![3](https://user-images.githubusercontent.com/79853573/170890293-03bc8047-6e89-4387-9271-da1084776bf9.png)
 
@@ -45,4 +46,7 @@ Faces are scanned and recognised through live streams and CCTV footage and the r
 
 ![4](https://user-images.githubusercontent.com/79853573/170890300-1e200e8b-8fc8-40a1-a822-99de2c729d69.png)
 
+## Resources Used ##
+1. [Face Recognition API](https://github.com/ageitgey/face_recognition)
+2. [Deep learning using Python and Open CV](https://projectgurukul.org/deep-learning-project-face-recognition-with-python-opencv/)
 
